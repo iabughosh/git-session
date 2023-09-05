@@ -1,1 +1,1 @@
-this is a test for learining git
+this is a test for learining git conflict
