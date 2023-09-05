@@ -1,1 +1,4 @@
-this is a test for learining git conflict
+
+this is a test for learning git totoroii
+
+updating from last commit ..
